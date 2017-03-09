@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{B1C14267-4502-08E6-C952-3BB45F188C61}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "MyShoot",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
