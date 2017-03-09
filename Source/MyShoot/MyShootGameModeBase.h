@@ -13,7 +13,10 @@ class MYSHOOT_API AMyShootGameModeBase : public AGameModeBase
 {
 	GENERATED_BODY()
 	
-	
+public:
+	virtual void StartPlay() override;
+
+
 	
 	
 };
